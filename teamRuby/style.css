@@ -27,7 +27,7 @@ font-family: 'Cuprum', sans-serif;
 
 }
 h2.text{ 
-    font-size: 34px;
+    font-size: 40px;
      color: #dedede;
      letter-spacing: 2px;
      font-family: 'Pacifico', cursive;
@@ -83,6 +83,7 @@ h2.text{
             color: rgb(12, 9, 9);
             letter-spacing: 3px;
         }
+
         @media(max-width:600px){
             .box{
                 width: 92%;
