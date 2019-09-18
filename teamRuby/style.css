@@ -37,6 +37,9 @@ h2.text{
     text-align: center;
    
 }
+a{
+    color: #f6f6f6;
+}
 .user span{
 	text-align: center;
 	font-size: 87px;
